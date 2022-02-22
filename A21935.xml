@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elizabeth by the grace of God, Queene of England, France and Ireland, defender of the faithe, [et]c. To all to whom these presents shall come greeting. Know ye that aswell in consideration of the good, faithfull and acceptable seruice to vs heretofore done  ...</title>
+            <title>Proclamations. 1598-05-20</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1598</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21935</idno>
+            <idno type="STC">STC 8264</idno>
+            <idno type="STC">ESTC S115535</idno>
+            <idno type="EEBO-CITATION">99850754</idno>
+            <idno type="PROQUEST">99850754</idno>
+            <idno type="VID">15980</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21935)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15980)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:112)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elizabeth by the grace of God, Queene of England, France and Ireland, defender of the faithe, [et]c. To all to whom these presents shall come greeting. Know ye that aswell in consideration of the good, faithfull and acceptable seruice to vs heretofore done  ...</title>
+                  <title>Proclamations. 1598-05-20</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1598]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Granting 8 year patent to Sir J. Pakington for importation of starch and control of the starch trade in England--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Starch --  Commerce --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:15980:1"/>
+            <head>
+               <figure>
+                  <head>
+                     <seg rend="decorInit">ER</seg>
+                  </head>
+                  <q xml:lang="frm">HONI SOIT <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> Y <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>NSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <salute>
+                  <hi>
+                     <seg rend="decorInit">E</seg>LIZABETH</hi> by the grace of God, Queene of England, France and Ireland, defender of the faith. &amp;c. To all to whom theſe preſents ſhall come greeting.</salute>
+            </opener>
+            <p>Know ye that aſwell in conſideration of the good, faithfull and acceptable ſeruice to be heretofore done, by our truſtie and welbeloued ſeruant Sir <hi>Iohn Pakington</hi> Knight, as for and in conſideration of the ſumme of fourty Pounds of currant money of this our Realme, to be yeerely anſwered and paid to vs our heires and ſucceſſors by the ſaid ſir <hi>Iohn Pakington</hi> his Executors or aſſignes into the receipt of our Exchequer at the feaſt of the Natiuitie of our Lord God, or within two moneths next after at one entier paiment during all the yeres mentioned in theſe preſents for and during the continuance of this our grant. For the tru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paiment whereof accordingly the ſaid Sir <hi>Iohn Pakington</hi> hath already put in ſufficient bond &amp; aſſurance to vs, as alſo for and in conſideration that the ſaide Sir <hi>Iohn Pakington</hi> hath likewiſe put in ſufficient bond and aſſurance to vs for the yerely paiment of the ſumme of fiue hundreth Pounds of currant money of this our Realm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be likewiſe yerely anſwered and paid to vs our heires and ſucceſſors at the ſaide place, and within the ſaid time, for and during the continuance of this our grant, for and towards the ſatiſfaction and paiment of a certaine debt due to vs by <hi>Richard Yung</hi> deceaſed, and for diuers and ſundry other conſiderations vs moouing:</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note>WE of our eſpecial grace, certaine knowledge and meere motion haue giuen and granted, and by theſe preſents for vs our heires and ſucceſſors do giue and grant to the ſaid Sir <hi>Iohn Pakington</hi> and his aſſignes, and the aſſignes of his ſaid aſſignee and his and their aſſignes, ful power and licence, and authoritie that he by himſelfe or by his aſſignes or the aſſignee or aſſignes of his aſſignes or his or their aſſignes, or the Seruants, factors or deputies of him or his aſſignes or the aſſignee or aſſignes of his ſaid aſſignes, or his or their aſſignes, or of any of them aſwell Engliſhmen and denizens as ſtrangers borne vnder the obedience of any forreine Prince, being with vs in league and amitie, ſhall and may at all times for and during the terme of eight whole yeres, from and immediatly enſuing the date of theſe our letters Patents prouide and buy in any part beyond the Seas being with vs in league and amitie, all and euery ſuch ſorts of Starch, as hee or they or any of them ſhall thinke good, and the ſame Starch from time to time to bring or ſend or cauſe to be brought or ſent and tranſported into this our Realme or any our Dominions and there to vtter, and ſell, diſtribute and diſpoſe the ſame in groſſe or by retaile, to his or their moſt commoditie, without incurring of any maner of penaltie, forfeiture, or danger in that be<g ref="char:EOLhyphen"/>halfe: any Law, act, ſtatute, ordinance, or reſtraint to the contrary in any wiſe notwithſtanding.</p>
+            <p>And further we will and graunt by theſe preſents for vs our heires and ſucceſſors, that the ſaid Sir <hi>Iohn Pakington</hi> and his aſſignes and the aſſignee and aſſignes of his aſſignee and his and their aſſignes, and the ſer<g ref="char:EOLhyphen"/>uants, factors, and deputies of him and his aſſignes only and none other ſhall during the ſaid terme, haue exerciſe and enioy the premiſſes to him by theſe preſents before giuen and granted, and alſo the full and whole trade and traffique of Merchandizing and ſelling of Starch within this our Re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lme and dominions as aforeſaid.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note>ANd therefore we do ſtraightly charge and command all and euery perſon and perſons whatſoeuer, of what eſtate, degree, or condition ſoeuer they be, that none of them ſhall during the ſaide terme make or cauſe to be made any maner of Starch within this our Realme or dominions aforeſaid. And likewiſe that none of them other then the ſaid Sir <hi>Iohn Pakington</hi> or his aſſignes or the aſſignee or aſſignes of his aſſignes or his or their aſſignes, or his or their ſeruants, factors, or deputies as is aforeſaid ſhall during the ſaid terme bring or ſend, or cauſe to be brought or ſent, tranſported or layde on land, nor by any maner of meanes or colour, mer<g ref="char:EOLhyphen"/>chandize, buy, ſell, vtter, ſhift, exchange, offer to ſell <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> put to ſale, or keepe to the intent to ſell any maner of Starch into or within this our Realme or any our Dominions contrary to the effect and true meaning of this our grant, or of any Law, ſtatute, ordinance, reſtraint p<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>mation or prouiſion in that caſe made or prouided: Vpon paine that euery perſon offending in that behalfe, ſhal not onely incurre our high diſpleaſure and ſuffer ſuch fine, puniſhment and impriſonment, as is due for offences and offenders in caſes of contempt againſt our Crowne, dignitie and prerogatiue Royall, but alſo ſhall likewiſe looſe and forfeit all the Starch which ſhalbe made, brought in, ſold, merchandized, vttered ſhifted, exchanged, offered, or put to ſale, or kept to the intent to be ſold contrary to the tenour or intent of this our preſent graunt. The one halfe of which forfeiture, to be to vs our heires and ſucceſſors, and the other halfe we giue and grant by theſe preſents, for vs our heires and ſucceſſors to the ſaid Sir <hi>Iohn Pakington</hi> and his aſſignes.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note>ANd for the better execution of this our graunt, we do alſo for vs our heires and ſucceſſors giue and graunt by theſe preſents to the ſaid Sir <hi>Iohn Pakington</hi> full power, free libertie, and authoritie that he the ſaid Sir <hi>Iohn Pakington</hi> and his aſſignes, and the aſſignee and aſſignes of his aſſignes, and his and their aſſignes, and his and their and euery of their ſeruants, factors and deputies and euery of them, ſhall and may at all times, and from time to time during the ſaid terme, enter into any Ship, bottome, veſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, boat, ſhop warehouſe, or other place or places whatſoeuer, which they or any of them ſhall thinke good within this our Realme, or any other our dominions by water or land, aſwell within liberties as without, and there by all lawfull and conuenient wayes and meanes try out and ſearch for all ſuch Starch as ſhall be made, brought tranſported l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yde on land, bought, ſold, merchandized ſhifted, exchanged, vttered, offered or put to ſale, or kept to the intent to be put to ſale contrary to the meaning or intent of theſe our letters Patents, and to arreſt, ſeize, take, carry away and deteine the ſame to the vſes in theſe our letters Patents before m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntioned and expreſſed, to the intent that the ſaid Sir <hi>Iohn Pakington</hi> and his aſſignes ſhal and may quietly haue and enioy the moitie of all forfeitures as is aforeſaid during the terme aforeſaid according to the effect of this our graunt.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> forfeitures <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> paid to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>.</note>VVE do further will and graunt that theſe our letters Patents or the Inrolement, Duplicate, or exemplification of the ſame, without any further or other w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrant, ſhall from time to time during the ſaide terme of yeres, be a ſufficient warrant and authoritie to our Treaſorer of England for the time being, and to the Barons of our Exchequer, and to all other our Officers and miniſters whatſoeuer to whom it ſhall or may appertaine, to allow, deliuer and pay the one moitie of all the ſaid forfeitures to the ſaid Sir <hi>Iohn Pakington</hi> or his aſſignes, or the aſſignee or aſſignes of his aſſignes or his or their aſſignes to his and their owne proper vſe and behoofe. Which ſaid allowance and paiment thereof our will and pleaſure is, to be from time to time duely made and performed accordingly during the terme aforeſaid, without any denial or delay of any our Of<g ref="char:EOLhyphen"/>ficers and miniſters whatſoeuer.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cuſtome <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be payd for <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Starch <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> ANd further we will and command and by theſe preſents for vs our heires and ſucceſſors, doe ſtraightly charge and prohibite all &amp; ſinguler our Cuſtomers, Collectors, Comptrollers, and farmers of our Cuſtomes and Subſidies of and within all and euery Ports, Hauens and Creekes and all other places whatſoeuer within this our Realme or any other our Dominions, and all other our Officers and Miniſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs whatſoeuer, which haue or ſhal haue any dealing or intermedling couching our ſaid Cuſtomes or Subſidies, that they nor any of them by themſelues, their Clearks, Deputies, and ſeruants receiue or take or in any wiſe cauſe or ſuffer to be taken any Cuſtome or Subſidie, or any thing or things whatſoeu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, during the ſaid terme of yeeres in the name or liew of any Cuſtome or Subſidie, nor compound or agree, or make any entrie into any Booke of or for any Cuſtome Subſidie or other duetie which ſhall hereafter during the ſayd terme happen or grow due to vs our heires and ſucceſſors for any Starch which ſhalbe brought into this our Realme or any other our Do<g ref="char:EOLhyphen"/>minions by any perſon or perſons, other then the ſaid Sir <hi>Iohn Pakington</hi> and his aſſignees, and the aſſignee and aſſignees of his aſſignees, and his and their aſſignees, or his or their ſeruants, factors or deputies, or in the name or names of him or them, or ſome of them and for his and their or ſome of their onely vſe and vſes.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> forth of <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Exche<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>.</note>ANd further we will and graunt by theſe preſents for vs our heires and ſucceſſors that the Treaſurer and Barons of our Exchequer for the time being by the force of this our graunt or the Inrolement thereof in the ſame Court at all and euery time and times during the ſaid terme at and vpon the requeſt of the ſaid Sir <hi>Iohn Pakington</hi> or his aſſignees, or the aſſignee or aſſignees of his aſſignees, or his and their aſſignees, or any other his or their atturney, factor or deputie ſhall haue full power, or lawfull authoritie to make and direct vnder the ſeale of the ſame Exchequer, ſuch and ſo many writ and writs, Cloſe or Patent vnto ſuch Maiors, Bailiffes, Sheriffes, Farmers of Cuſtomes, Cuſtomers, Collectors, Comptrollers, Seachers, and other Officers of vs our heires and ſucceſſors in ſuch Shires, Counties, Cities, Boroughes, Ports, Hauens, and Creekes, or other places whatſoeuer within any our Dominions as the ſaid Sir <hi>Iohn Pakington</hi> or his aſſignees or the aſſignee or aſſignees of his aſſignees, or his or their aſſignees, atturney, ſeruant or factor, ſhall at any time require. Commanding and charging them or any of them thereby that they nor any of them during the ſaid terme, receiue or take any Cuſtome or Subſidie or any other thing in the name or liew of any Cuſtome or Subſidie, or compound or agree or make any compoſition or agreement, or any entrie into any booke of or for any Cuſtome Subſidie or other duetie which ſhall hereafter during the ſayd terme happen or growe due to vs our heires or ſucceſſors for any maner of Starch, which ſhall bee brought into this Realme or any other our Dominions, otherwiſe then by vertue of and according to this our preſent lyeence and graunt, and alſo to doe and execute and cauſe to be done and executed all and euery thing and matter whatſoeuer, which ſhall and may be neceſſarie requiſite or conuenient for the performing, executing and accompliſhment of this our pre<g ref="char:EOLhyphen"/>ſent graunt.</p>
+            <p>
+               <note place="margin">Cu<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>omers to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and de<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> as ſir Iohn P<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>gton.</note> VVIlling and commanding all our ſaid Cuſtomers, Collectors, Comptrollers, and Farmers of our ſaid Cuſtomes and Subſidies from time to time and at all times during the ſayd terme in all places within their Office and charge carefully and diligently by all wayes and meanes to trie out and ſearch for all ſuch Starch as by any perſon or perſons ſhall be made or cauſed to be made within this our ſayd Realme or other our Dominions. And alſo to trie out and ſearch for all ſuch Starch as by any perſon or perſons, other then the ſaid ſir <hi>Iohn Pakington</hi> and his aſſignees or the aſſignee or aſſignees of his aſſignees, or his or their aſ<g ref="char:EOLhyphen"/>ſignees, ſeruants, factors or deputies or ſome of them ſhall within the ſaid terme be brought and laid on land, merchandize, bought, ſold, vttered ſhifted, exchanged, offered, or put to ſale, or kept to be ſold into or within this our Realme or any other our Dominions contrary to the tenor of theſe our letters Patents: and to arreſt, take, ſeize, and to deliuer the ſame to the ſaid ſir <hi>Iohn Pakington</hi> and his aſſignees and the aſſignee and aſſignees of his ſaid aſſignees, and his and their aſſignees, or to his ſeruants, factors and deputies of them or ſome of them to the vſes aboue ſpecified.</p>
+            <p>
+               <note place="margin">Puni<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ment for offenders.</note> ANd further that they do carefully and dilgently endeuor themſelues that th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>intent and true meaning of theſe our letters Patents may be in all things kept and obſerued. And if in th'execution thereof they ſhall find any reſiſtance, that they certifie the ſame into our Court of the ſayd Exchequer, to the end the offendors therein may receiue condigne puniſhment for the ſame their offences, and to the end that the ſayde ſir <hi>Iohn Pakington</hi> and his aſſignees and the aſſignee or aſſignees of his aſſignees, and his and their aſſignees, deputies, ſeruants, and factors and euery of them ſhall haue the whole benefit and profit of this our graunt, accor<g ref="char:EOLhyphen"/>cording to the true meaning of theſe our letters Patents.</p>
+            <p>Our expreſſe will and pleaſure is, and we do require and ſtraightly charge and command our Chauncellor and Barons of our Court of Exchequer, and all other our Iudges, Iuſtices of peace, Maiors, officers, and Miniſters whatſoeuer, within this our Realme of England and other our Dominions, vpon complaint vnto them or any of them to be made by the ſayd ſir <hi>Iohn Pakington</hi> his aſſignees or the aſſignee or aſſignees of his ſayd aſſignees or his or their aſſignees, factors, deputies and ſeruants, or any of them, that any perſon or perſons whatſoeuer ſhall offend in making, tranſporting, or vttering, putting to ſale, ſhifting, exchanging, or offering to ſale, or keeping to th'intent to put to ſale any ſort of Starch contrary to the true meaning of theſe our letters Patents to enquire of, trie out, and examine by all due and lawfull meanes and wayes whatſoeuer, all and euery ſuch offences, and the offendors therein to cauſe to be ſeuerily puniſhed: as contemners of our Prerogatiue Royall, by ſuch fine and empriſonment and otherwiſe, as ſhalbe due for ſuch Offendors, &amp; as the qualitie of their offences ſhall deſerue and require, and alſo from time to time during the ſayd terme to take ſuch ſtraight orders for the reſtraining of all ſuch offendors as aforeſayd, &amp; all other perſons whatſoeuer, from doing or attempting any thing whereby the ſayd ſir <hi>Iohn Pakington</hi> or his aſſignees or the aſſignee or aſſignees of his aſſignees or his or their aſſignees, deputies, factors, or ſeruants, ſhall or may be any way preiudi<g ref="char:EOLhyphen"/>ced or hindered, quietly to haue &amp; enioy the benefit of this our graunt according to our gracious pleaſure and meaning therin expreſſed, as ſhalbe lawfull and reaſonable, and as in their diſcretions they ſhall thinke meete.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Officers <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be aiding.</note>ANd further we wil &amp; command by theſe preſents that all Maiors, Bailiffes, Sheriffes, Juſtices of the peace, Conſtables Comptrolers, Searchers, &amp; all other our Officers, Miniſter &amp; ſubiects whatſoeuer do not onely permit and ſuffer the ſayd ſir <hi>Iohn Pakington</hi> and his aſſignees and the aſſignee and aſſignees of his aſſignees and his and their aſſignees and his and their ſeruants, factors and deputies to haue &amp; enioy the full benefit and commoditie of this our graunt, but alſo that they be helping, ayding and aſſiſting to him and them in the excution hereof, when they ſhalbe thereunto required, at all times during the ſayd terme as they will anſwere the contrary at their vttermoſt perill.</p>
+            <p>Sauing alwayes to vs our Heires and ſucceſſors all and all maner Cuſtomes ſubſidies and duties which ſhall or ought to be in any wiſe due or payable of or for any Starch brought or to be brought, or tranſported in<g ref="char:EOLhyphen"/>to this our Realme or any other our Dominions by the ſayd ſir <hi>Iohn Pakington</hi> or his aſſignees or the aſſignee or aſſignees, or his or their aſſignees, ſeruants, factors or deputies or in their or any of their names or name during the ſayd terme.</p>
+            <p>ALl which ſayd Cuſtomes, Subſidies and dueties, our expreſſe will and pleaſure is to be duely and fully anſwered and payd to vs our Heires and Succeſſors during the ſayd terme of yeeres. Any thing in theſe pre<g ref="char:EOLhyphen"/>ſents contained to the contrary in any wiſe notwithſtanding. In Witnes whereof we haue cauſed theſe our letters to be made Patents.</p>
+            <closer>
+               <dateline>Witnes our ſelfe at Weſtminſter <date>the Twenteth day of Maye in the Fortith yeere of our Raigne.</date>
+               </dateline>
+               <signed>Per breue de priuato Sigillo, &amp;c. Powle.</signed>
+            </closer>
+            <postscript>
+               <p>Nos tenorem litterarum patentem predictarum ad requiſitionem delectorum nobis, Georgij Berisford, Thome Fuller, Ioſue Crewe, &amp; Guihelmi Nottingham, duximus exemplificand per preſentes. In cuius rei teſtimonium has litteras noſtras fieri fecimus patentes. Teſte meipſa, &amp;c.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
